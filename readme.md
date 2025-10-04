@@ -75,7 +75,5 @@ diff output/1851A_output.txt expected_output.txt
 
 ---
 
-If you want, I can also make a **ready-to-use template folder with `C++/input/output` + a sample problem and input/output files** so you can just run any problem immediately.  
 
-Do you want me to do that?
 ```
